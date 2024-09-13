@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 ,</h1>
 <h3 align="center">A passionate Game/AI developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on [Shooting Genjitsu](https://www.instagram.com/excellent_torch/)
+- 🔭 I’m currently working on [Shooting Genjitsu](https://www.instagram.com/excellent_torch/) and other secret stuff 🤫
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
