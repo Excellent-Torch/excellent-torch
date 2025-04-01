@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Game/AI developer from Sri Lanka</h3>
 
 - 🔭 I’m currently working on [Rune of Demons](https://www.instagram.com/excellent_torch/) and other secret stuff 🤫
+- Check out my Portfolio 👉 [www.excellenttorch.com](https://excellenttorch.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
