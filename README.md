@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Ishan </h1>
-<h3 align="center">A passionate AI/Game developer from Sri Lanka : )</h3>
+<h3 align="center">A passionate AI/ML developer from Sri Lanka : )</h3>
 
 - 👀 I’m interested in Artificial Intelligence/Machine Learning, and Game Development.
 - Check out my Portfolio 👉 [www.excellenttorch.com](https://excellenttorch.com/)
