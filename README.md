@@ -5,11 +5,8 @@
 <h3 align="center">A passionate AI/ML Engineer from Sri Lanka : )</h3>
 
 👀 AI/ML Engineer with a MSc in Artificial Intelligence and over 4+ years of experience in Machine/Deep Learning and Reinforcement Learning.
-- Check out my Portfolio 👉 [www.excellenttorch.com](https://excellenttorch.com/)
+Open to Work! ATM, Feel free to [E-Mail](contact@excellenttorch.com) Me and Check out my Portfolio 👉 [www.excellenttorch.com](https://excellenttorch.com/)
   <br>
-  OR
-  <br>
-- Contact Me via E-Mail 👉 [contact@excellenttorch.com](contact@excellenttorch.com)
 
 ![Python](https://img.shields.io/badge/Languages-Python%2C%20C++%2C%20C%23%2C%20MATLAB%2C%20SQL%2C%20JavaScript/TypeScript%2C%20HTML/CSS-informational?style=flat&color=1A3F6E)
 <div style="text-align: center;">
