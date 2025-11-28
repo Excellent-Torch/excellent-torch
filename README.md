@@ -1,12 +1,8 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=1A3F6E" />
-</div>
-<div align="center">
-    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Science+Gothic&weight=600&size=28&pause=1000&color=2CFF16&width=435&lines=What's+Up!+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Science+Gothic&weight=600&size=28&duration=2500&pause=1000&color=2CFF16&center=true&width=640&height=80&lines=What's+Up!+%F0%9F%91%8B;A+passionate+dev+from+Sri+Lanka+%F0%9F%99%83)](https://git.io/typing-svg)
 
 </div>
-<h3 align="center">A passionate AI/ML Engineer from Sri Lanka : )</h3>
 
 ## About Me
 👀 My real name is <b>Ishan Madhuranga</b> AKA <b>Excellent_Torch</b>, A recent graduate with a MSc in Artificial Intelligence and over 4+ years of experience in Machine/Deep Learning and Reinforcement Learning.
